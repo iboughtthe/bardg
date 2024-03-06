@@ -8,15 +8,15 @@ from aiogram.types import ParseMode
 import random as R, string as S, json as C, requests as T, re
 
 # Replace 'YOUR_BOT_TOKEN_HERE' with your actual bot token
-API_TOKEN = 'IHUREIUHRUHIRIUGRE'
+API_TOKEN = '7181562251:AAHj5tO-dtd3vn4IeaCtKOGVELyYZACzBA8'
 
 # Initialize bot and dispatcher
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
 # BardBot initialization...
-V = 'HFDEBIRBOGJNBOTHGY67Y' #__Secure-1PSID Key
-W = 'ERUFGVR4IUGTIYG5R4YTG' #__Secure-1PSIDTS
+V = 'g.a000gwj3FW2RuxbRfkNNRmDoQ8BlH6FoiN36kpqh8fLkgjiwMsB5Z6NqwvzlhpM3jMG-mF1lWgACgYKAccSAQASFQHGX2MiFwRClVtQXSmfdqHeRxunwxoVAUF8yKof438Yl1zC0f657RYRsUEI0076' #__Secure-1PSID Key
+W = 'sidts-CjIBYfD7Z0yvcWpRHALhrvnc3oDIjBfMbyKxXb0SPKd7LKid-H5G1pMDRPAI2dQXgfs0LxAA' #__Secure-1PSIDTS
 
 
 Q = 'utf-8'
