@@ -16,7 +16,7 @@ dp = Dispatcher(bot)
 
 # BardBot initialization...
 V = 'g.a000gwj3FW2RuxbRfkNNRmDoQ8BlH6FoiN36kpqh8fLkgjiwMsB5Z6NqwvzlhpM3jMG-mF1lWgACgYKAccSAQASFQHGX2MiFwRClVtQXSmfdqHeRxunwxoVAUF8yKof438Yl1zC0f657RYRsUEI0076' #__Secure-1PSID Key
-W = 'sidts-CjIBYfD7Z0yvcWpRHALhrvnc3oDIjBfMbyKxXb0SPKd7LKid-H5G1pMDRPAI2dQXgfs0LxAA' #__Secure-1PSIDTS
+W = 'sidts-CjIBYfD7ZzpsaZj9RnzZEU9iYUyUX-KujUygpLacUp2lRMGsMfWFmAJ30-WHE4FJmV0OJxAA' #__Secure-1PSIDTS
 
 
 Q = 'utf-8'
