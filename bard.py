@@ -2,7 +2,7 @@
 Author: Bisnu Ray
 Telegram: https://t.me/SmartBisnuBio
 """
-
+import bard
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ParseMode
 import random as R, string as S, json as C, requests as T, re
